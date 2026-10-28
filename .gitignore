@@ -1,0 +1,19 @@
+CLAUDE.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+credentials*.json
+token*.json
+
+# Node
+node_modules/
+dist/
+coverage/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
